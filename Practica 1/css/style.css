@@ -1,0 +1,54 @@
+
+
+header {
+        
+    display:block;
+    background:#f4511e;
+    padding:10px 0px;
+}
+section {
+    background: #ccc;
+    float: left;
+    overflow: auto;
+    padding-bottom: 60px;
+    padding-top:30px;
+}
+
+aside {
+    float: right;
+    border: 1px solid red;
+    border: 1px solid red;
+    background: #90caf9;
+    
+}
+footer {
+    position: relative;
+    margin-top: -50px;
+    height: 40px; 
+    padding:5px 0px;
+    clear: both;
+    background: #e65100;
+    text-align: center;
+    color: #fff;
+}
+figure {
+    display: table; margin: 0 auto;
+}
+
+hr {
+    border: 1px solid red; 
+    height: 2px; 
+    width: 70%;}
+
+a{
+    text-decoration: blink;
+}
+.links a:nth-child(2){
+    color: green;
+}
+.links a:nth-child(3){
+    color: orange;
+}
+.links a:nth-child(4){
+    color: red;
+}

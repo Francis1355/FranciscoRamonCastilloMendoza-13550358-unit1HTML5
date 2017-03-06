@@ -1,0 +1,30 @@
+article section {
+	background-color: beige;
+    border: 1px solid gray;
+	padding: 5px;
+ 	margin-bottom: 8px;
+}
+
+section{
+	text-align: center;
+    border: 1px solid gray;
+    display: inline-block;
+    width: 69%;
+    height: 540px;
+    border-radius: 3px;
+    background-color: #CFD8DC;
+}
+            
+          
+nav{
+	float: right;
+    text-align: center;
+    display: inline-block;
+    width: 30%;
+    border: 1px solid gray;
+    height: 500px;
+    background-color: #27ae60;
+}
+nav  *:active{
+	background-color: #16a085;
+}
